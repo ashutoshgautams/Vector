@@ -5,4 +5,10 @@ There  will be thousands of space attack from the enemies and endless fun.  Vect
 
 Live Link to Play:-https://asteroid-meteroid.github.io/ 
 
-Developed By Agrasth Naman(https://github.com/agrasthnaman) & Ashutosh Gautam(me)(https://github.com/Traitor000)
+Developed By 
+
+Agrasth Naman(https://github.com/agrasthnaman) 
+
+& 
+
+Ashutosh Gautam(me)(https://github.com/Traitor000)
