@@ -7,8 +7,8 @@ Live Link to Play:-https://asteroid-meteroid.github.io/
 
 Developed By 
 
-Agrasth Naman(https://github.com/agrasthnaman) 
+Ashutosh Gautam(me)(https://github.com/Traitor000)
 
 & 
 
-Ashutosh Gautam(me)(https://github.com/Traitor000)
+Agrasth Naman(https://github.com/agrasthnaman) 
