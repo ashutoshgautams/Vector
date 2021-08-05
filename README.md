@@ -9,6 +9,4 @@ Developed By
 
 Ashutosh Gautam(me)(https://github.com/Traitor000)
 
-& 
 
-Agrasth Naman(https://github.com/agrasthnaman) 
